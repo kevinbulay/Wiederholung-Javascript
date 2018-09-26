@@ -1,7 +1,7 @@
 # WIEDERHOLUNG JAVA SCRIPT
 ---
 
-##Kommentar
+## Kommentar
 Kommentare stehen im Source Code um Anmerkungen jeglicher Art hinzuzufügen.
 
 ---
@@ -41,7 +41,7 @@ console.log(!(a > 0 || b > 0));
 ---
 
 ## Arithmetische Operatoren
-Arithmetische Operatoren verwenden Zahlenwerte oder Variablen und geben Zahlenwerte aus. Die arithmetischen Standardoperatoren sind Addition (+), Subtraktion (-), Multiplikation (*) und Division (/).
+Arithmetische Operatoren verwenden Zahlenwerte oder Variablen und geben Zahlenwerte aus. Die arithmetischen Standardoperatoren sind _Addition (+)_, _Subtraktion (-)_, _Multiplikation (*)_ und _Division (/)_.
 ``` js
 var a = 2;
 
@@ -70,3 +70,4 @@ console.log("1" === 1);
 Schleifen führen einzelne Schritte wiederholt aus.
 
 
+(c) Kevin Bulay 2018
